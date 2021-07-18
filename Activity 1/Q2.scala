@@ -11,7 +11,7 @@ object Q2 extends App{
   }
 
   def primeSeq(n:Int):Unit= {
-    if (n > 0)  primeSeq(n-1)
+    if (n > 2)  primeSeq(n-1)
     if (prime(n)) println(n)
   }
 
