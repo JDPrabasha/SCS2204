@@ -15,5 +15,5 @@ object Q2 extends App{
     if (prime(n)) println(n)
   }
 
-  primeSeq(16)
+
 }
