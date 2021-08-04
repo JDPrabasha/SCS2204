@@ -14,6 +14,6 @@ object Q2 extends App{
     if (n > 2)  primeSeq(n-1)
     if (prime(n)) println(n)
   }
-
+//doesn't work for 11
 
 }
